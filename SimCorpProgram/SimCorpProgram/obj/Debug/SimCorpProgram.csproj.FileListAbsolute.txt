@@ -1,0 +1,17 @@
+c:\users\pamet_000\documents\visual studio 2013\Projects\SimCorpProgram\SimCorpProgram\bin\Debug\SimCorpProgram.exe.config
+c:\users\pamet_000\documents\visual studio 2013\Projects\SimCorpProgram\SimCorpProgram\bin\Debug\SimCorpProgram.exe
+c:\users\pamet_000\documents\visual studio 2013\Projects\SimCorpProgram\SimCorpProgram\bin\Debug\SimCorpProgram.pdb
+c:\users\pamet_000\documents\visual studio 2013\Projects\SimCorpProgram\SimCorpProgram\obj\Debug\SimCorpProgram.csprojResolveAssemblyReference.cache
+c:\users\pamet_000\documents\visual studio 2013\Projects\SimCorpProgram\SimCorpProgram\obj\Debug\MainWindow.baml
+c:\users\pamet_000\documents\visual studio 2013\Projects\SimCorpProgram\SimCorpProgram\obj\Debug\MainWindow.g.cs
+c:\users\pamet_000\documents\visual studio 2013\Projects\SimCorpProgram\SimCorpProgram\obj\Debug\App.g.cs
+c:\users\pamet_000\documents\visual studio 2013\Projects\SimCorpProgram\SimCorpProgram\obj\Debug\SimCorpProgram_MarkupCompile.cache
+c:\users\pamet_000\documents\visual studio 2013\Projects\SimCorpProgram\SimCorpProgram\obj\Debug\SimCorpProgram.g.resources
+c:\users\pamet_000\documents\visual studio 2013\Projects\SimCorpProgram\SimCorpProgram\obj\Debug\SimCorpProgram.Properties.Resources.resources
+c:\users\pamet_000\documents\visual studio 2013\Projects\SimCorpProgram\SimCorpProgram\obj\Debug\SimCorpProgram.csproj.GenerateResource.Cache
+c:\users\pamet_000\documents\visual studio 2013\Projects\SimCorpProgram\SimCorpProgram\obj\Debug\SimCorpProgram.exe
+c:\users\pamet_000\documents\visual studio 2013\Projects\SimCorpProgram\SimCorpProgram\obj\Debug\SimCorpProgram.pdb
+c:\users\pamet_000\documents\visual studio 2013\Projects\SimCorpProgram\SimCorpProgram\bin\Debug\SimCorpProgram.exe.manifest
+c:\users\pamet_000\documents\visual studio 2013\Projects\SimCorpProgram\SimCorpProgram\bin\Debug\SimCorpProgram.application
+c:\users\pamet_000\documents\visual studio 2013\Projects\SimCorpProgram\SimCorpProgram\obj\Debug\SimCorpProgram.exe.manifest
+c:\users\pamet_000\documents\visual studio 2013\Projects\SimCorpProgram\SimCorpProgram\obj\Debug\SimCorpProgram.application

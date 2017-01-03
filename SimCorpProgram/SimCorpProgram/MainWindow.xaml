@@ -1,0 +1,16 @@
+﻿<Window x:Class="SimCorpProgram.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Welcome" Height="556" Width="720">
+    <Grid Background="#FF3D4D5D">
+        <Button Content="Count" Margin="0,217,10,0" VerticalAlignment="Top" Background="white" Click="Button_Click" BorderBrush="#FFD6CECE" FontSize="14" HorizontalAlignment="Right" Width="75"/>
+        <Label Content="&gt; To count the ocurrence of each unique word press Count" HorizontalAlignment="Left" Margin="10,214,0,0" VerticalAlignment="Top" Width="492" Foreground="White" FontSize="14"/>
+        <TextBox x:Name="TextBoxResult" Height="200" Margin="0,265,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" VerticalScrollBarVisibility="Auto" BorderBrush="#FFD6CECE" IsReadOnly="True" FontSize="15" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="TextBoxFile" Height="60" Margin="0,93,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" BorderBrush="White" IsReadOnly="True" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="16" TextChanged="TextBoxFile_TextChanged"/>
+        <Label x:Name="LabelContent" Content="This is the text file content" Margin="19,40,0,0" VerticalAlignment="Top" Height="37" Foreground="White" FontSize="16" HorizontalContentAlignment="Center" HorizontalAlignment="Left"/>
+        <Label Content="&gt; To edit the file content press Edit and write what you want in the upper box" HorizontalAlignment="Left" Margin="10,180,0,0" VerticalAlignment="Top" Width="492" Foreground="White" FontSize="14"/>
+        <Button Content="Edit" Margin="0,183,10,0" VerticalAlignment="Top" BorderBrush="#FFD6CECE" Background="White" FontSize="14" Click="Button_Click_1" HorizontalAlignment="Right" Width="75"/>
+        <Button Content="Close" Margin="0,477,10,0" FontSize="14" Background="White" Width="75" Click="Button_Click_2" Height="23" VerticalAlignment="Top" HorizontalAlignment="Right"/>
+
+    </Grid>
+</Window>
